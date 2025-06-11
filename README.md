@@ -309,3 +309,57 @@ This project is licensed under the **MIT Licence**, permitting both personal and
   <br><br>
   <em>Have questions, suggestions, or feedback? We'd love to hear from you—please open an issue or start a discussion on our repository.</em>
 </div>
+
+## Future Development Roadmap
+
+While XNGIN has a comprehensive architecture and structure in place, the engine is currently in the early stages of development. The following areas are planned for implementation or completion:
+
+### Core Implementation Status
+
+- **Engine Core**: Basic structure defined, but core functionality needs implementation
+  - Game loop implementation
+  - Module management system
+  - Event handling system
+  - Resource management
+
+- **Rendering System**: 
+  - OpenGL renderer needs full implementation
+  - Vulkan renderer is in planning stage
+  - Material system requires implementation
+  - Lighting and shadow systems
+
+- **Physics Integration**:
+  - Physics API defined but needs implementation
+  - Collision detection systems
+  - Integration with scene graph
+
+- **Audio System**:
+  - OpenAL implementation needs completion
+  - Spatial audio features
+  - Audio resource management
+
+- **Input Handling**:
+  - Basic input abstraction defined
+  - Controller support pending
+  - Input mapping system
+
+- **Asset Pipeline**:
+  - Asset loading and management
+  - Model and texture importing
+  - Asset hot-reloading
+
+### Upcoming Features
+
+- **Editor Tools**: A visual editor for scene creation and management
+- **Scripting System**: Lua or JavaScript integration for game logic
+- **Networking**: Multiplayer capabilities and network synchronization
+- **AI Systems**: Pathfinding, behavior trees, and decision making
+- **Mobile Platform Support**: Android and iOS implementations
+- **Documentation**: Comprehensive API documentation and tutorials
+
+### Contributing
+
+We welcome contributions in any of these areas. If you're interested in helping develop XNGIN, please see our [contribution guidelines](docs/CONTRIBUTING.md) and consider tackling one of the areas above.
+
+---
+

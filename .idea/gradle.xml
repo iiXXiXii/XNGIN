@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/engine-assets" />
+            <option value="$PROJECT_DIR$/engine-audio-api" />
+            <option value="$PROJECT_DIR$/engine-audio-openal" />
+            <option value="$PROJECT_DIR$/engine-core" />
+            <option value="$PROJECT_DIR$/engine-input" />
+            <option value="$PROJECT_DIR$/engine-math" />
+            <option value="$PROJECT_DIR$/engine-physics-api" />
+            <option value="$PROJECT_DIR$/engine-physics-dyn4j" />
+            <option value="$PROJECT_DIR$/engine-platform-api" />
+            <option value="$PROJECT_DIR$/engine-platform-lwjgl" />
+            <option value="$PROJECT_DIR$/engine-renderer-api" />
+            <option value="$PROJECT_DIR$/engine-renderer-gl" />
+            <option value="$PROJECT_DIR$/engine-renderer-vk" />
+            <option value="$PROJECT_DIR$/engine-scene" />
+            <option value="$PROJECT_DIR$/game-launcher" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
